@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+   
+}
+#aaa
+{
+    width: 150px;
+    margin: 15px auto;
+    border-color: blue;
+    border-radius: 20px;
+   border-right-style: solid;
+   border-left-style: solid;
+   border-top-style: solid ;
+   border-bottom-style: solid ;
+    padding-bottom: 15px;
+    background: yellow;
+    ba
+}
+#b1
+{
+    background: green;
+    color: white;
+}
+#b2
+{
+    background: red;
+    color: white;
+
+}
